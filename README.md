@@ -5,14 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/VN0V4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=BF4A3F&center=true&vCenter=true&width=500&lines=Hi+there,++I'm+Luca;Praised+be+The+Penguin+of+FOSS!+%F0%9F%90%A7;" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=BF4A3F&center=true&vCenter=true&width=500&lines=Hi+there,++I'm+Luca.;I+like+puzzles+and+games!;" alt="Typing intro" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VN0V4?tab=followers"><img src="https://img.shields.io/github/followers/VN0V4?label=Followers&style=for-the-badge&logo=github&color=a64833&labelColor=402b23" alt="Followers" /></a>
-  <a href="https://github.com/VN0V4?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-bf4a3f?style=for-the-badge&logo=github&labelColor=402b23" alt="Repos" /></a>
-  <img src="https://hits.sh/github.com/VN0V4.svg?style=for-the-badge&label=Profile%20views&color=a64833&labelColor=402b23" alt="Profile views" />
 </p>
 
 ---
